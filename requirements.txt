@@ -1,0 +1,11 @@
+pycopy-webbrowser
+wikipedia
+python-time
+pyjokes
+requests
+GoogleNews
+subprocess.run
+PyAutoGUI
+selenium
+DateTime
+pyttsx3
